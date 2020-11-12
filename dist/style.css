@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Sora:wght@800&display=swap");
+h1 {
+  font-family: 'Sora', sans-serif;
+}
+
+body {
+  background-color: #ff4757;
+  margin: 0;
+  font-family: 'Sora', sans-serif;
+}
+
+#calcOutput {
+  width: 290px;
+  height: 75px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  margin: 0 auto;
+  padding-top: 20px;
+  background-color: white;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6);
+}
+
+#calculator {
+  background-color: #aaa69d;
+  width: 290px;
+  padding: 20px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6);
+  margin: 0 auto;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+#steps {
+  padding: 50px;
+  font-size: 2em;
+}
+
+.bigButton {
+  width: 93px;
+}
+
+a {
+  margin: 5px;
+  width: 50px;
+  height: 40px;
+}
